@@ -157,4 +157,4 @@ Java程序对格式没有明确的要求，多几个空格或者回车不影响�
 
 那约定的编码格式有哪些要求呢？其实如果你去查看各种编码格式要求，一定会崩溃——因为一个正常的程序员根本不会记这么多内容。
 
-还好我们有现代IDE给我们解决了统一格式的问题，如果你是用的Intellij IDEA,可以按下command+alt+L进行自动排版操作；Eclipse IDE可以按下快捷键`Ctrl+Shift+F`（macOS是`⌘+⇧+F`）就能快速格式化代码的功能，具体的代码格式要求可以在Eclipse的设置中`Java`-`Code Style`查看。
+还好我们有现代IDE给我们解决了统一格式的问题，如果你是用的Intellij IDEA,可以按下option+command+L进行自动排版操作；Eclipse IDE可以按下快捷键`Ctrl+Shift+F`（macOS是`⌘+⇧+F`）就能快速格式化代码的功能，具体的代码格式要求可以在Eclipse的设置中`Java`-`Code Style`查看。
